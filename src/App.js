@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          <h1>Intellecto Global Service</h1> <code>src/App.js</code> and save to reload.
+          <h1>Intellecto Global Services</h1> <code>src/App.js</code> and save to reload.
         </p>
         <a
           className="App-link"
